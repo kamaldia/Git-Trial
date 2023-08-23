@@ -1,13 +1,13 @@
 
-> #### Kamal Dia 
+> ### Kamal Dia 
 >![empty profile image](https://einercial.com/wp-content/uploads/2018/04/Facebook-no-profile-picture-icon-620x389.jpg)
 >
-> ###### **Mobile**: (+961) 81859734 
+> ##### **Mobile**: (+961) 81859734 
 >
-> ###### **Email**: kamal.dia.95@gmail.com
+> ##### **Email**: kamal.dia.95@gmail.com
 >
 >
-> **Education**
+> ###### **Education**
 >
 >
 > **Near East University **
@@ -17,7 +17,7 @@
 > B.Sc. in Civil Engineering
 >
 >
-> **Career**
+> ###### **Career**
 >
 >
 > **Lebanese Engineering & Contracting Company**        Sidon, Lebanon
@@ -29,7 +29,7 @@
 > ‐ Received ordered material or equipment. 
 > ‐ Reported to project engineer with all technical details. 
 >
-> **Internship**
+> ###### **Internship**
 >
 >
 > **Lebanese Engineering & Contracting Company           Sidon, Lebanon **
@@ -53,7 +53,7 @@
 > ‐ Supervision of crews in support of underground installations, finish earth work, and paving.
 >
 >
-> **Volunteering**
+> ###### **Volunteering**
 >
 > **Palestinian popular committee in Mar‐Elias refugee camp         Beirut, Lebanon**
 >
@@ -65,7 +65,7 @@
 > ‐ Report to Popular committee. 
 >
 >
-> **Interpersonal Skills**
+> ###### **Interpersonal Skills**
 >
 > ‐ Verbal and non‐verbal communication. 
 > ‐ Developed good teamwork and leadership skills. 
@@ -73,7 +73,7 @@
 > ‐ Good negotiator. 
 >
 >
-> **Personal Data**
+> ###### **Personal Data**
 >
 > **Nationality:** Lebanese 
 > **Date of Birth:** 14.04.1995 
